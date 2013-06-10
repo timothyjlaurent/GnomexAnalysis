@@ -1,3 +1,4 @@
+// Author : Timothy Laurent
 install.packages("som")
 library("som")
 useqout.77.table <- read.delim("~/BioinfCore/useqout-77-table.txt")
